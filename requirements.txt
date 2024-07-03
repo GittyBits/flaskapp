@@ -144,7 +144,6 @@ PyRect==0.2.0
 Pyrogram==2.0.106
 PyScreeze==0.1.30
 PySocks==1.7.1
-python==3.11
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.0
 python-telegram-bot==21.2
